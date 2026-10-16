@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+requests
+scikit-learn
+numpy
+sqlalchemy
+pydantic
+sentence-transformers
